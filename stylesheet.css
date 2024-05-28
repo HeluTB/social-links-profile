@@ -15,7 +15,6 @@
     color:blue;
 }
 body{
-  background: linear-gradient(210deg, red 5%, black 25%,black 50%,black 75%, blue 99%);
   background-repeat: no-repeat; 
   background-size: cover;
   color: white;
